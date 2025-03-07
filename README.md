@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi 👋! My name is Ranim Boussaidi and I'm a IT Student, from Tunisia
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"><br>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"><br><br>
+(https://github.com/Ranim-Roy/Ranim-Roy/blob/output/github-contribution-grid-snake.svg)
 
 
 
