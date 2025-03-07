@@ -4,7 +4,8 @@ Hi 👋! My name is Ranim Boussaidi and I'm a IT Student, from Tunisia
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"><br><br>
 
 
-
+## 🌐 Socials:
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranimboussaidi02@gmail.com) 
 
 
 
