@@ -2,19 +2,7 @@
 Hi 👋! My name is Ranim Boussaidi and I'm a IT Student, from Tunisia
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"><br><br>
-<svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes slide {
-      from { transform: translateX(-100%); }
-      to { transform: translateX(100%); }
-    }
-    .snake {
-      animation: slide 3s linear infinite;
-      font-family: monospace;
-    }
-  </style>
-  <text x="0" y="15" class="snake">~ 🐍 ~ 🐍 ~ 🐍 ~ 🐍 ~</text>
-</svg>
+https://github.com/Platane/snk.git
 
 
 
