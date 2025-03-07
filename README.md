@@ -6,7 +6,7 @@ Hi 👋! My name is Ranim Boussaidi and I'm a IT Student, from Tunisia
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranim boussaidi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranimboussaidi02@gmail.com) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranimboussaidi02@gmail.com) 
 
 
 
