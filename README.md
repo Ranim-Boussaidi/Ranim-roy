@@ -5,7 +5,8 @@ Hi 👋! My name is Ranim Boussaidi and I'm a IT Student, from Tunisia
 
 <br><br>
 ## 🌐 Socials:
- (mailto:ranimboussaidi02@gmail.com) 
+
+📧 [ranimboussaidi02@gmail.com](mailto:ranimboussaidi02@gmail.com)
 
 
 
