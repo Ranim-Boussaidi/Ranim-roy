@@ -10,7 +10,7 @@
 📫 Contact : [ranimboussaidi02@gmail.com](mailto:ranimboussaidi02@gmail.com)
 
 🌐 Mes réseaux :  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-nom-utilisateur/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ranim-boussaidi-265633300/)  
 - 🧠 [GitHub](https://github.com/Ranim-roy)
 
 ---
