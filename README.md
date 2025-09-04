@@ -38,14 +38,7 @@
 
 ---
 
-## 📈 Statistiques GitHub
 
-<div align="center">
-
-![Ranim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranim-roy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranim-roy&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
